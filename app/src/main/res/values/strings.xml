@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrencyTracking</string>
+    <string name="title_popular_currency">Популярные валюты</string>
+    <string name="title_favorites_currency">Избранные Валюты</string>
+    <string name="currency">Курсов валюты</string>
+    <string name="tracking">Отслеживание</string>
+    <string name="select_currency">Выберите страну:</string>
+    <string name="retry">Повторить</string>
+    <string name="delete_all">Удалить всё</string>
+    <string name="text_hint">Вы можете добавить свои любимые валюты на главную страницу</string>
+    <string name="title_settings">Сортировка</string>
+    <string name="sorting_settings">Выберите как будем сортировать</string>
+    <string name="alphabetical_sorting">Алфавитная сортировка</string>
+    <string name="value_sorting">Сортировка по значению</string>
+    <string name="ascending_order">Сортировать по возрастанию</string>
+    <string name="descending_order">Сортировать по убыванию</string>
+    <string name="default_valuta">По дефолту валюта в USD</string>
+</resources>
